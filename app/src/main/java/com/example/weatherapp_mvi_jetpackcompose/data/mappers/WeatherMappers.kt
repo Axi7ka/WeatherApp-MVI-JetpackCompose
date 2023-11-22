@@ -50,3 +50,4 @@ fun WeatherDTO.toWeatherInfo(): WeatherInfo {
         currentWeatherData = currentWeatherData
     )
 }
+
